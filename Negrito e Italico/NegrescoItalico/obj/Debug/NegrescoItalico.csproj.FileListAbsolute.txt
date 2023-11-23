@@ -1,0 +1,10 @@
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\bin\Debug\NegrescoItalico.exe.config
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\bin\Debug\NegrescoItalico.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\bin\Debug\NegrescoItalico.pdb
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.csproj.AssemblyReference.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.Form1.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.Properties.Resources.resources
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.csproj.GenerateResource.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.csproj.CoreCompileInputs.cache
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.exe
+C:\Users\aluno_lab4\Desktop\Eduvasco\NegrescoItalico\NegrescoItalico\obj\Debug\NegrescoItalico.pdb
